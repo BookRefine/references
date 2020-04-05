@@ -4,6 +4,6 @@ These leaks were released by Edward Snowden and published by multiple approved n
 
 Included is the **SIDToday** newsletters distributed within intelligence.
 
-The files are organised in folders by project, system, aim if applicable
+The files are organised in folders by project, system, aim and subject
 
 Documents organised and categorised by BookRefine Publishing Staff
