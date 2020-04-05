@@ -1,8 +1,8 @@
 ## References, Footnotes and Additional Content
 
-![enter image description here](https://bookrefine.com/wp-content/uploads/2020/04/Logo-Black-604x136.png)
-Additional content, mirrored links, high-resolution photographs and documents for works released by **[BookRefine Publishing](https://bookrefine.com)**
 
+Additional content, mirrored links, high-resolution photographs and documents for works released by **[BookRefine Publishing](https://bookrefine.com)**
+![bookrefine.com](https://bookrefine.com/wp-content/uploads/2020/04/Logo-Black-604x136.png)
 ## Current Books with References
 ##### [Under Constant Supervision: *Surveillance and Censorship from Google to Government*](https://github.com/BookRefine/references/tree/master/supervision)
 
