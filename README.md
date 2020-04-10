@@ -14,6 +14,10 @@ If you have accessed this repository outside of the link provided within the foo
 #### Issues?
 If you have any issues with the sources provided here or wish to clarify anything, please [contact us](https://bookrefine.com/contact-us/) at our website
 
+### Acknowledgements
+Many of the mirrored web links/news articles here are thanks to [SingleFile](https://github.com/gildas-lormeau/SingleFile) on GitHub
+
+
 ###### Fair Use Notice
 
 _This repository may contain copyrighted material the use of which has not been specifically authorised by the copyright owner. We believe uploading such content for the purposes of citation and verification by readers in the case of [link rot](https://en.wikipedia.org/wiki/Link_rot) or original links becoming unavailable as published in our physical books constitutes 'fair use'_
