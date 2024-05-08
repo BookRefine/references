@@ -1,7 +1,5 @@
 ## Reference Mirrors and Additional Content
 
-![Logo](https://bookrefine.com/wp-content/uploads/2020/04/Logo-Black-604x136.png)
-
 Additional content, mirrored links, high-resolution photographs and documents for works released by *[BookRefine Publishing](https://bookrefine.com)*
 
 ## Current Books with References
