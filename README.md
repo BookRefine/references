@@ -10,7 +10,7 @@ Additional content, mirrored links, high-resolution photographs and documents fo
 If you have accessed this repository outside of the link provided within the footer of a book, you can view the sources of information under the folder featuring a similar title of the book.
 
 #### Issues?
-If you have any issues with the sources provided here or wish to clarify anything, please [contact us](https://bookrefine.com/contact-us/) at our website
+If you have any issues with the sources provided here or wish to clarify anything, please [contact us](https://bookrefine.com/contact/) at our website
 
 ### Acknowledgements
 Many of the mirrored web links/news articles here are thanks to [SingleFile](https://github.com/gildas-lormeau/SingleFile) on GitHub
