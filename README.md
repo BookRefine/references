@@ -23,7 +23,7 @@ _This repository may contain copyrighted material the use of which has not been 
 ## About BookRefine Publishing:
 [BookRefine Publishing Group Website](https://bookrefine.com)
 
-[Contact Form](https://bookrefine.com/contact-us/) `[PGP Available]`
+[Contact Form](https://bookrefine.com/contact)
 
 [LinkedIn Company Page](https://www.linkedin.com/company/bookrefine/)
 
